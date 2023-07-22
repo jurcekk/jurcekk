@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! My name is, David</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> Hi there! My name is, David</h1>
 <h3 align="center">I'm a passionate mobile developer from Serbia 🇷🇸. My expertise lies in crafting stunning and high-performance mobile applications using React Native.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
