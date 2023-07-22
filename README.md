@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> Hi there! My name is, David</h1>
-<h3 align="center">I'm a passionate Frontend & Mobile Developer from Serbia 🇷🇸. I specialize in crafting stunning web and mobile experiences, utilizing React & React Native to build high-performance applications.</h3>
+<h3>I'm a passionate Frontend & Mobile Developer from Serbia 🇷🇸. I specialize in crafting stunning web and mobile experiences, utilizing React & React Native to build high-performance applications.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
