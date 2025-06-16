@@ -33,8 +33,8 @@
 
 ### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidjurcek&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidjurcek&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jurcekk&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurcekk&theme=tokyonight"/>
 </p>
 
 ---
