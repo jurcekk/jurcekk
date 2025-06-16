@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm David 🖖</h1>
 
 <p align="center">
-  <i>Front‑End Developer • React & TypeScript Enthusiast • Meme Connoisseur</i>
+  <i>Front‑End Developer • React & TypeScript Enthusiast • Like memes</i>
 </p>
 
 ---
@@ -43,7 +43,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="This is fine" width="400"/>
 </p>
 
-> *“Shipping code at 3 AM like… this is fine.”*
+> *“Breaking prod”*
 
 ---
 
