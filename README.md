@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/Ax7JUhhhMt4AAAAM/angry-typing-kitty.gif" alt="Coding Cat" width="600"/>
+  <img src="https://media.tenor.com/Ax7JUhhhMt4AAAAM/angry-typing-kitty.gif" alt="Coding Cat" width="400" height="400"/>
 </p>
 
 <h1 align="center">Hi there, I'm David 🖖</h1>
