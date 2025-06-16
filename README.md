@@ -1,6 +1,7 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Cat" width="600"/>
+  <img src="https://tenor.com/view/type-computer-keyboard-cat-kitten-gif-12222055" alt="Coding Cat" width="600"/>
+<div class="tenor-gif-embed" data-postid="12222055" data-share-method="host" data-aspect-ratio="1.62602" data-width="100%"><a href="https://tenor.com/view/type-computer-keyboard-cat-kitten-gif-12222055">打字 计算机 电脑 键盘 猫 小猫 可爱 GIF</a>from <a href="https://tenor.com/search/type-gifs">Type GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <h1 align="center">Hi there, I'm David 🖖</h1>
@@ -25,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40"/>
 </div>
 
@@ -45,12 +45,6 @@
 </p>
 
 > *“Shipping code at 3 AM like… this is fine.”*
-
----
-
-### 📝 Latest Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
